@@ -2,3 +2,8 @@
 	path = xmarts/l10n-mx-pos-global-invoice
 	url = git@github.com:xmarts/l10n-mx-pos-global-invoice.git
 	branch = 15.0_community
+
+[submodule "xmarts/BazarES"]
+	path = xmarts/BazarES
+	url = git@github.com:xmarts/BazarES.git
+	branch = main
